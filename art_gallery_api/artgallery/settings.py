@@ -148,7 +148,7 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'API for an indigneous art gallery.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
-    'CONTACT': {"smithhanna@deakin.edu.au"},
+    'CONTACT': {"email@email.com"},
     'COMPONENT_SPLIT_REQUEST': True
 }
 
